@@ -1,0 +1,23 @@
+{
+  "name": "drones",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test\" && exit 1",
+    "dev": "lite-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "es6-module-loader": "^0.17.11",
+    "jquery": "^2.2.4",
+    "material-design-lite": "^1.2.1",
+    "systemjs": "^0.19.40",
+    "traceur": "0.0.108"
+  },
+  "devDependencies": {
+    "lite-server": "^2.2.0",
+    "qunitjs": "^2.0.1"
+  }
+}
